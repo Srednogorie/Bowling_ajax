@@ -1,0 +1,8 @@
+[BowlingGame(Frame=1, FrameRow=1, GameId=a),BowlingGame(Frame=1, FrameRow=2, GameId=a),
+ BowlingGame(Frame=2, FrameRow=1, GameId=a),BowlingGame(Frame=2, FrameRow=2, GameId=a),BowlingGame(Frame=3, FrameRow=1, GameId=a),
+ BowlingGame(Frame=3, FrameRow=2, GameId=a),BowlingGame(Frame=4, FrameRow=1, GameId=a),BowlingGame(Frame=4, FrameRow=2, GameId=a),
+ BowlingGame(Frame=5, FrameRow=1, GameId=a),BowlingGame(Frame=5, FrameRow=2, GameId=a),BowlingGame(Frame=6, FrameRow=1, GameId=a),
+ BowlingGame(Frame=6, FrameRow=2, GameId=a),BowlingGame(Frame=7, FrameRow=1, GameId=a),BowlingGame(Frame=7, FrameRow=2, GameId=a),
+ BowlingGame(Frame=8, FrameRow=1, GameId=a),BowlingGame(Frame=8, FrameRow=2, GameId=a),BowlingGame(Frame=9, FrameRow=1, GameId=a),
+ BowlingGame(Frame=9, FrameRow=2, GameId=a),BowlingGame(Frame=10, FrameRow=1, GameId=a),BowlingGame(Frame=10, FrameRow=2, GameId=a),
+ BowlingGame(Frame=10, FrameRow=3, GameId=a)]

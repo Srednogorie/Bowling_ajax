@@ -1,0 +1,6 @@
+{'game_frame': game_frame, 'result_frame_1': d['result_frame_1'],
+ 'result_frame_2': d['result_frame_2'], 'result_frame_3': d['result_frame_3'],
+ 'result_frame_4': d['result_frame_4'], 'result_frame_5': d['result_frame_5'],
+ 'result_frame_6': d['result_frame_6'], 'result_frame_7': d['result_frame_7'],
+ 'result_frame_8': d['result_frame_8'], 'result_frame_9': d['result_frame_9'],
+ 'result_frame_10': d['result_frame_10'], 'total': total}
